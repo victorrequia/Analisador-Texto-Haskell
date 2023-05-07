@@ -1,3 +1,5 @@
+# Trabalho Final da Disciplina de Programação Funcional
+
 # Analisador de Texto Haskell
 
 ### O objetivo desse trabalho é definir uma função que, dado um documento, gera um índice das palavras que ocorrem nesse documento. O programa deve ter como entrada um arquivo texto. Considere as seguintes definições:
